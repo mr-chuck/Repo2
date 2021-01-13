@@ -1,14 +1,1 @@
-
-Inserting some changes
-
- Volume in drive E is New Volume
- Volume Serial Number is 2633-9B9B
-
- Directory of E:\Visual Studio\Proj1
-
-01/13/2021  11:57 AM    <DIR>          .
-01/13/2021  11:57 AM    <DIR>          ..
-01/13/2021  11:57 AM                 0 test.txt
-01/12/2021  10:44 PM                21 Test2
-               2 File(s)             21 bytes
-               2 Dir(s)  1,378,726,350,848 bytes free
+index.html  test.txt  Test2
